@@ -59,3 +59,6 @@
 // git add . - adds all the changes in the current directory to the staging area.
 // commit:- git commit -m "message" - it is the record of changes made to the codebase.
 // push:- git push origin main - pushes the committed changes to the remote repository on GitHub.
+
+// PUSH COMMAND - to upload local repository content to a remote repository.
+// git push origin main - pushes the committed changes to the remote repository on GitHub.

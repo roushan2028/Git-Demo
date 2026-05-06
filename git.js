@@ -59,3 +59,8 @@
 // git add . - adds all the changes in the current directory to the staging area.
 // commit:- git commit -m "message" - it is the record of changes made to the codebase.
 // push:- git push origin main - pushes the committed changes to the remote repository on GitHub.
+
+// in readme.md file we can write about the project, how to use it, and any other relevant details. 
+// It is often the first file that users see when they visit a repository.
+//  It is a good practice to include a readme file in your repository to provide 
+// information about the project and make it easier for others to understand and use it.
